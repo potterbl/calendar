@@ -1,4 +1,4 @@
-# КАлендар
+# Календар
 
 https://potterbl.github.io/calendar/
 
