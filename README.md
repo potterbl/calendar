@@ -1,24 +1,18 @@
-# calendar
+# КАлендар
 
-## Project setup
-```
-npm install
-```
+https://potterbl.github.io/calendar/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+calendar - це веб-додаток, написаний на фреймворку Vue.
+Він представляє собою календар з подіями.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Встановлення проекту
+Відкрийте термінал та виконайте команди для клонування репозиторію та встановлення залежностей:
 
-### Lints and fixes files
-```
-npm run lint
-```
+- git clone https://github.com/potterbl/calendar.git
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Запуск проекта через NPM
+
+- cd calendar
+- npm install
+- npm run serve
+- Відкрийте браузер і перейдіть за посиланням http://localhost:8080/calendar/
