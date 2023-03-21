@@ -139,10 +139,9 @@ export default createStore({
       {
         day: 20,
         eventYear: 2023,
-        eventMonth: 'Березень',
-        eventTime: '14:00-15:00',
-        eventTimeLond: '12:00-13:00',
-        event: 'Some event',
+        eventMonth: '',
+        eventTime: '',
+        event: '',
       },
       {
         day: 21,
@@ -182,9 +181,10 @@ export default createStore({
       {
         day: 26,
         eventYear: 2023,
-        eventMonth: '',
-        eventTime: '',
-        event: '',
+        eventMonth: 'Березень',
+        eventTime: '14:00-15:00',
+        eventTimeLond: '12:00-13:00',
+        event: 'Some event',
       },
       {
         day: 27,
